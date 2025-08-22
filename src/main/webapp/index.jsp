@@ -826,7 +826,9 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Winter Collection 2040</h1>
+          feature
+            <h1>winter Collection 2023</h1>
+      main
             <p>Discover the latest trends in fashion, technology and accessories with up to 40% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
@@ -907,7 +909,7 @@
                 <span class="product-badge">-25%</span>
                 <img src="https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Smartwatch" class="product-img">
                 <div class="product-info">
-                    <h3>Apple Watch Series 8</h3>
+                    <h3>orange Watch Series 8</h3>
                     <div class="price">$349 <span class="old-price">$399</span></div>
                     <div class="rating">★★★★★ <span>(214)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
@@ -916,8 +918,10 @@
             <div class="product-card">
                 <img src="https://images.unsplash.com/photo-1542272604-787c3835535d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Sneakers" class="product-img">
                 <div class="product-info">
-                    <h3>Nike Air Max 370</h3>
-                    <div class="price">$250</div>
+feature
+                    <h3>adidas Air Max 270</h3>
+                    <div class="price">$150</div>
+main
                     <div class="rating">★★★★☆ <span>(53)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
